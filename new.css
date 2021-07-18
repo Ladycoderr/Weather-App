@@ -1,0 +1,22 @@
+
+*{
+margin:0px;
+ padding : 0px;
+ font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background: #eee;
+
+}
+.box{
+    
+    margin: auto;
+    text-align: center;
+    width: 50vh;
+    height: 60vh;
+    padding: 50px;
+  overflow: hidden;
+  margin-top: 60px;
+  background: #a5bbdd;
+  box-shadow: 0 0.2rem 3rem rgba(0, 0, 0, 0.2);
+}
