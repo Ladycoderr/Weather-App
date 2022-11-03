@@ -33,4 +33,4 @@ res.write(realTimeData);
     }
 });
 
-server.listen("8000","127.0.0.1");
+server.listen("8000","0.0.0.0");
